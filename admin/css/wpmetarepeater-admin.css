@@ -1,0 +1,78 @@
+.col-first {
+    float: left;
+    width: 20%;
+	margin-right:10px;
+}
+.col-md {
+	float: left;
+	width: 15%;
+	margin-right:10px;
+}
+.col-last {
+	float: left;
+	width: 20%;
+	margin-right:10px;
+}
+.wpmr-addfield-row {
+    clear: both;
+	overflow: hidden;
+	padding: 10px 0;
+}
+.edd-input{
+	width: 100%;
+	margin: 0;
+}
+.col-ver {
+    clear: both;
+    overflow: hidden;
+}
+.wpmr-defaultfield-row p {
+    margin-top: 0;
+}
+.wpmr-defaultfield-row label{
+	font-weight: 600;
+	margin-bottom:5px;
+	display: block;
+	text-transform: capitalize;
+}/*
+.wpmr_newfields_wrapper{
+    margin-top: 15px;
+    background: #F9F9F9;
+    padding: 15px 15px;
+    border: 1px solid #ccc;
+}*/
+.col-input {
+    width: 80%;
+    overflow: hidden;
+}
+.col-label {
+    float: left;
+    width: 18%;
+    margin-right: 2%;
+}
+span.remover {
+    color: #a00;
+    position: absolute;
+    right: 0;
+    top: -20px;
+	cursor: pointer;
+}
+.wpmr-defaultfield-row {
+    position: relative;
+	margin: 22px 0 auto;
+    background: #F9F9F9;
+    padding: 15px 15px;
+    border: 1px solid #ccc;
+}
+ul.wpmr_list li {
+    font-size: 14px;
+    text-transform: capitalize;
+    display: inline-block;
+    margin: 5px;
+}
+ul.wpmr_list {
+    margin: 30px auto;
+}
+.wpmr_posts_list form {
+    margin-left: 25px;
+}
